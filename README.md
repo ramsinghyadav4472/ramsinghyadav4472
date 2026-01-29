@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram Singh Yadav</h1>
 <h3 align="center">A passionate Cloud & DevOps Engineer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsinghyadav4472&label=Profile%20views&color=0e75b6&style=flat" alt="ramsinghyadav4472" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramsinghyadav4472&label=Profile%20views&color=0e75b6&style=flat" alt="ramsinghyadav4472" /> </p> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramsinghyadav4472" alt="ramsinghyadav4472" /></a> </p>
 
