@@ -69,16 +69,26 @@ infrastructure.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ramsinghyadav4472&show_icons=true&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ramsinghyadav4472&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramsinghyadav4472&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ramsinghyadav4472&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsinghyadav4472&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramsinghyadav4472&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
 </p>
+
 
 ---
 
